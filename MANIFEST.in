@@ -1,0 +1,4 @@
+graft indico_payment_mollie/templates
+#graft indico_payment_mollie/translations
+
+global-exclude *.pyc __pycache__ .keep

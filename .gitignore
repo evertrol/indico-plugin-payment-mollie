@@ -1,0 +1,8 @@
+indico_payment_mollie/translations
+
+# Python byte-compiled files
+__pycache__
+*.pyc
+
+# Build files during development
+indico_plugin_payment_mollie.egg-info
